@@ -13,10 +13,3 @@ This is the official landing page for [HireATutorPro.com](https://hireatutorpro.
 ![Banner](./hireatutorpro-banner.png)
 
 
-## 🛠️ Run Locally
-
-```bash
-git clone https://github.com/monalisastar/hireatutorpro-landing-page.git
-cd hireatutorpro-landing-page
-npm install
-npm run dev
